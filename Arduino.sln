@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WeatherScreen", "WeatherScreen\WeatherScreen.vcxproj", "{1506AA1D-DE8A-4CC5-AF4B-3DC7BFE30979}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dimmer", "Dimmer\Dimmer.vcxproj", "{EE0F5CAD-D010-40AF-9184-2A75E89C2509}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClearBoard", "ClearBoard\ClearBoard.vcxproj", "{7567C61C-D662-42CC-9590-84E0EE1FFFD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Blinker", "Blinker\Blinker.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1506AA1D-DE8A-4CC5-AF4B-3DC7BFE30979}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1506AA1D-DE8A-4CC5-AF4B-3DC7BFE30979}.Debug|Win32.Build.0 = Debug|Win32
+		{1506AA1D-DE8A-4CC5-AF4B-3DC7BFE30979}.Release|Win32.ActiveCfg = Release|Win32
+		{1506AA1D-DE8A-4CC5-AF4B-3DC7BFE30979}.Release|Win32.Build.0 = Release|Win32
+		{EE0F5CAD-D010-40AF-9184-2A75E89C2509}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE0F5CAD-D010-40AF-9184-2A75E89C2509}.Debug|Win32.Build.0 = Debug|Win32
+		{EE0F5CAD-D010-40AF-9184-2A75E89C2509}.Release|Win32.ActiveCfg = Release|Win32
+		{EE0F5CAD-D010-40AF-9184-2A75E89C2509}.Release|Win32.Build.0 = Release|Win32
+		{7567C61C-D662-42CC-9590-84E0EE1FFFD2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7567C61C-D662-42CC-9590-84E0EE1FFFD2}.Debug|Win32.Build.0 = Debug|Win32
+		{7567C61C-D662-42CC-9590-84E0EE1FFFD2}.Release|Win32.ActiveCfg = Release|Win32
+		{7567C61C-D662-42CC-9590-84E0EE1FFFD2}.Release|Win32.Build.0 = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|Win32.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
