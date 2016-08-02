@@ -1,6 +1,7 @@
 //*================================================================================*
-// BLINK
-// Blinking an LED is the equivalent of "Hello World" for Makers.
+// DIMMER
+// A simple dimmer project that controls the brightness of an LED based on the
+// input value of a potentiometer.
 //
 // Nick Landry
 // Senior Technical Evangelist, Microsoft
@@ -10,9 +11,9 @@
 //*================================================================================*
 
 // Declarations
-int potPin = 0;
+int potPin = 0; // Analog pin for the potentiometer input
 int potValue = 0;
-int led = 3;
+int led = 3; // LED pin
 
 // Setup code
 void setup()
